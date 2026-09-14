@@ -5,8 +5,8 @@
 
 ******
 ### _Contacts_
-+ [E-mail](kotovnik2024tbilisi@gmail.com)
-+ [GitHub](https://github.com/kotovnik)
++ [E-mail](imicatori@gmail.com)
++ [GitHub](https://github.com/micatori)
 
 ----
 
@@ -57,7 +57,7 @@ export default smallestDivisor;
 + [Introduction To Programming](https://ru.hexlet.io/courses/introduction_to_programming)
 + [Git Basics](https://ru.hexlet.io/courses/intro_to_git)
 + [https://learn.javascript.ru/](JavaScript Manual)
-+ [https://rs.school/courses/javascript-ru](RS Schools Course «JavaScript/Front-end. Stage 0»)
++ [https://rs.school/courses/javascript](RS Schools Course «JavaScript/Front-end»)
 
 
 ----
