@@ -1,2 +1,2 @@
-https://kotovnik.github.io/rsschool-cv/
-https://kotovnik.github.io/rsschool-cv/cv
+https://micatori.github.io/rsschool-cv/
+https://micatori.github.io/rsschool-cv/cv
